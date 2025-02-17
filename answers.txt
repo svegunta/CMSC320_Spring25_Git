@@ -9,3 +9,7 @@ Answer: Data science can be applied to all fields. An example in engineering is 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference between merging and rebasing is that merging preserves the history of both branches and joins them together, while rebasing overwrites one branch with another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning the topics that I initially joined computer science to learn about - machine learning/AI and the data science associated with it.
