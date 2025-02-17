@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to all fields. An example in engineering is using data science to track performance variation in the same aircraft part across hundreds of aircraft, to determine if any changes are needed.
